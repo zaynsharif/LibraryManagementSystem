@@ -1,0 +1,14 @@
+
+---
+
+### **How It Works**
+
+1. **Add books**: `The Alchemist` and `1984` are added to the library.
+2. **Borrow books**: Users `Mustafa` and `Zayn` borrow the books.
+3. **Handle errors**: If a book is already borrowed, it prints a message.
+4. **Return books**: Users can return borrowed books.
+5. **List books**: Shows the status of all books in the library.
+
+---
+
+### **Sample Output**
